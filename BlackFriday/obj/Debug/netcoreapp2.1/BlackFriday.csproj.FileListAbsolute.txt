@@ -1,0 +1,14 @@
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/bin/Debug/netcoreapp2.1/BlackFriday.deps.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/bin/Debug/netcoreapp2.1/BlackFriday.runtimeconfig.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/bin/Debug/netcoreapp2.1/BlackFriday.runtimeconfig.dev.json
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/bin/Debug/netcoreapp2.1/BlackFriday.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/bin/Debug/netcoreapp2.1/BlackFriday.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.csproj.CoreCompileInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.RazorAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.RazorAssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.AssemblyInfoInputs.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.AssemblyInfo.cs
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.RazorTargetAssemblyInfo.cache
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.dll
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.pdb
+/Users/Flo/Desktop/SolHandelsplattform V.01/BlackFriday/obj/Debug/netcoreapp2.1/BlackFriday.csprojAssemblyReference.cache
